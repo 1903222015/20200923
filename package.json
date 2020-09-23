@@ -1,0 +1,25 @@
+{
+  "name": "20200923",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lijun": "lessc css/index.less css/index.min.css -x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1903222015/20200923.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1903222015/20200923/issues"
+  },
+  "homepage": "https://github.com/1903222015/20200923#readme",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "less": "^3.12.2"
+  }
+}
